@@ -1,1 +1,1 @@
-Treść pliku cwiczenie4.txt
+Nowa treść pliku cwiczenie4.txt
